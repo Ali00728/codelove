@@ -454,6 +454,7 @@ transition: .3s;
 	}
 	.slider1{
 		margin-top:70px;
+	}
 	.slider1 .carousel-indicators{
 		visibility: visible;
 	}
